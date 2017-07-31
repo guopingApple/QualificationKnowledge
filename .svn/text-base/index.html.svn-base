@@ -2,12 +2,12 @@
 <html>
 <head lang="en">
     <meta charset="UTF-8">
-    <title>资质知产</title>
-    <meta name="keywords" content=" " />
-    <meta name="description" content=" "/>
+    <title>企业资质代办_知识产权代理服务_神州顺利办</title>
+	<meta content="资质代办，知识产权代理" name="keywords">
+	<meta content="神州顺利办资深顾问团提供企业资质代办、商标注册代理、知识产权代理服务，让便捷的服务与品牌创造更多的价值。" name="description">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="Shortcut Icon" href="http://www.12366.com/static/front/http://www.12366.com/static/common/img/logo-link.ico" type="image/x-icon">
-	<link rel="Bookmark" href="http://www.12366.com/static/front/http://www.12366.com/static/common/img/logo-link.ico" type="image/x-icon">
+    <link rel="Shortcut Icon" href="http://www.12366.com/static/front/images/logo-link.ico" type="image/x-icon">
+	<link rel="Bookmark" href="http://www.12366.com/static/front/images/logo-link.ico" type="image/x-icon">
 	<link rel="stylesheet" type="text/css" href="http://www.12366.com/static/common/css/yq_base.css"/>
 	<link rel="stylesheet" type="text/css" href="css/QK.css"/>
 
@@ -83,33 +83,32 @@
 
 	<!--PC H5适配-->
 	<!--<script>
-		var domain = document.domain;
-		var sUserAgent = navigator.userAgent.toLowerCase();
-		var bIsIpad = sUserAgent.match(/ipad/i) == "ipad";
-		var bIsIphoneOs = sUserAgent.match(/iphone os/i) == "iphone os";
-		var bIsMidp = sUserAgent.match(/midp/i) == "midp";
-		var bIsUc7 = sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4";
-		var bIsUc = sUserAgent.match(/ucweb/i) == "ucweb";
-		var bIsAndroid = sUserAgent.match(/android/i) == "android";
-		var bIsCE = sUserAgent.match(/windows ce/i) == "windows ce";
-		var bIsWM = sUserAgent.match(/windows mobile/i) == "windows mobile";
-		var weixin = window.navigator.userAgent.match(/MicroMessenger/i) == "MicroMessenger";
-		var curUrl = window.location.href;
-		var pcUrl = 'http://'+domain+'/statics/sxy/index.html';
-		var mUrl = 'http://'+domain+'/statics/sxy_wx/index.html';
-		if (weixin || bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM) {
-			/* 当前访问的是微信链接 */
-			if(curUrl.indexOf('statics/sxy_wx/index') == -1){
-				window.location.href='http://'+domain+'/statics/sxy_wx/index.html';
-			}
-		}else{
-			/* 当前页是pc链接 */
-			if(curUrl.indexOf('statics/sxy/index') == -1){
-				window.location.href='http://'+domain+'/statics/sxy/index.html';
-			}
-		}
-	</script>-->
-
+        var domain = document.domain;
+        var sUserAgent = navigator.userAgent.toLowerCase();
+        var bIsIpad = sUserAgent.match(/ipad/i) == "ipad";
+        var bIsIphoneOs = sUserAgent.match(/iphone os/i) == "iphone os";
+        var bIsMidp = sUserAgent.match(/midp/i) == "midp";
+        var bIsUc7 = sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4";
+        var bIsUc = sUserAgent.match(/ucweb/i) == "ucweb";
+        var bIsAndroid = sUserAgent.match(/android/i) == "android";
+        var bIsCE = sUserAgent.match(/windows ce/i) == "windows ce";
+        var bIsWM = sUserAgent.match(/windows mobile/i) == "windows mobile";
+        var weixin = window.navigator.userAgent.match(/MicroMessenger/i) == "MicroMessenger";
+        var curUrl = window.location.href;
+	    var pcUrl = 'http://'+domain+'/statics/zzdb/index.html';
+	    var mUrl = 'http://'+domain+'/statics/zzdb_wx/index.html';
+	    if (weixin || bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM) {
+	        /* 当前访问的是微信链接 */
+	        if(curUrl.indexOf('statics/zzdb_wx/index') == -1){
+	           window.location.href='http://'+domain+'/statics/zzdb_wx/index.html';
+	        }
+	    }else{
+	        /* 当前页是pc链接 */
+	        if(curUrl.indexOf('statics/zzdb/index') == -1){
+	          window.location.href='http://'+domain+'/statics/zzdb/index.html';
+	        }
+	    }
+    </script>-->
 </head>
 <body>
 	
@@ -127,7 +126,7 @@
                 <li><a href="http://www.12366.com/statics/yqlg/index.html" target="_blank">易桥空间</a></li>
             </ul>
             <ul class="w_head_right clearFix">
-                <li><a style="cursor: default;" href="javascript:;">A股上市公司股票代码：<span>000606</span></a></li>
+                <li><a style="cursor: default;" href="javascript:void(0)">A股上市公司股票代码：<span>000606</span></a></li>
                 <li><a href="http://www.12366.com/front/footStatic/toAboutUs?classAttr=1" target="_blank">了解我们</a></li>
                 <li><a href="http://www.12366.com/front/footStatic/toBusiness" target="_blank">商务合作</a></li>
             </ul>
@@ -142,13 +141,14 @@
 			<span>资质知产</span>
 		</div>
 		<ul class="fr">
-			<li><a href="javascript:;" class="current" id="w_nav1">首页</a></li>
-			<li><a href="javascript:;" id="w_nav2">热门精选</a></li>
-			<li><a href="javascript:;" id="w_nav3">资质服务</a></li>
-			<li><a href="javascript:;" id="w_nav4">知识产权</a></li>
-			<li><a href="javascript:;" id="w_nav5">服务流程</a></li>
-			<li><a href="javascript:;" id="w_nav6">合作伙伴</a></li>
-			<li><a href="javascript:;" id="w_nav7">服务保障</a></li>
+			<li><a href="javascript:void(0)"class="current" id="w_nav1">首页</a></li>
+			<li><a href="javascript:void(0)"id="w_nav2">热门精选</a></li>
+			<li><a href="javascript:void(0)"id="w_nav3">资质服务</a></li>
+			<li><a href="javascript:void(0)"id="w_nav4">知识产权</a></li>
+			<li><a href="javascript:void(0)"id="w_nav5">运营推广</a></li>
+			<li><a href="javascript:void(0)"id="w_nav6">服务流程</a></li>
+			<li><a href="javascript:void(0)"id="w_nav7">合作伙伴</a></li>
+			<li><a href="javascript:void(0)"id="w_nav8">服务保障</a></li>
 		</ul>
 	</div>
 </div>
@@ -161,11 +161,12 @@
                     <dt>知识产权</dt>
                     <dd><a href="http://www.12366.com/product/detail_519_0.html" target="_blank">商标普通注册</a></dd>
                     <dd><a href="http://www.12366.com/product/detail_683_0.html" target="_blank">商标设计</a></dd>
-                    <dd><a href="javascript:;" onclick="NTKF.im_openInPageChat('kf_9328_1468918637558')">专利</a></dd>
+                    <dd><a href="javascript:void(0)"id="zzzc01" onclick="NTKF.im_openInPageChat('kf_9328_1468918637558')">专利</a></dd>
                     <dd><a href="http://www.12366.com/product/detail_206_0.html" target="_blank">商标变更</a></dd>
                     <dd><a href="http://www.12366.com/product/detail_214_0.html	" target="_blank">商标续展</a></dd>
                     <dd><a href="http://www.12366.com/product/detail_237_0.html	" target="_blank">撤三申请</a></dd>
                     <dd><a href="http://www.12366.com/product/detail_257_0.html	" target="_blank">软件著作权</a></dd>
+                    <dd><a href="javascript:void(0)"id="zzzc39" onclick="NTKF.im_openInPageChat('kf_9328_1468918637558')">国际申请</a></dd>
                 </dl>
             </li> 
             <li class="two_li pb10">
@@ -175,14 +176,15 @@
                     <dd><a href="http://www.12366.com/product/detail_465_0.html	" target="_blank">文网文</a></dd>
                     <dd><a href="http://www.12366.com/product/detail_794_0.html" target="_blank">游戏版号</a></dd>
                     <dd><a href="http://www.12366.com/product/P17010262_794_462500.html" target="_blank">游戏运营备案</a></dd>
-                    <dd><a href="javascript:;" onclick="NTKF.im_openInPageChat('kf_9328_1468918698960')">ISO系列认证</a></dd>
-                    <dd><a href="javascript:;" onclick="NTKF.im_openInPageChat('kf_9328_1468918698960')">条形码</a></dd>
+                    <dd><a href="javascript:void(0)"id="zzzc02" onclick="NTKF.im_openInPageChat('kf_9328_1468918698960')">ISO系列认证</a></dd>
+                    <dd><a href="javascript:void(0)"id="zzzc03" onclick="NTKF.im_openInPageChat('kf_9328_1468918698960')">条形码</a></dd>
                 </dl>
         	</li>
         	<li class="last_li">
                 <dl class="clearFix">
                     <dt>运营推广</dt>
                     <dd><a href="http://www.12366.com/product/Z1601003_1202_389115.html" target="_blank">微信代运营</a></dd>
+                    <dd><a href="javascript:void(0)"id="zzzc40" onclick="NTKF.im_openInPageChat('kf_9328_1468918637558')">网站设计</a></dd>
                     <dd><a href="http://www.12366.com/product/Z1601002_1260_428742.html" target="_blank">H5设计</a></dd>
                     <dd><a href="http://www.12366.com/product/detail_1203_0.html" target="_blank">网络营销推广包</a></dd>
                 </dl>
@@ -221,7 +223,7 @@
 	                    <img src="img/top_01.jpg" alt="商标设计"/>
 	                </a>
 	                <p class="w_operate_title clearFix">
-	                    <a href="javascript:;" target="_blank">商标设计</a>
+	                    <a href="javascript:void(0)" target="_blank">商标设计</a>
 	                    <span>特惠价 <i>1300</i> 元</span>
 	                </p>
 	
@@ -237,7 +239,7 @@
 	                </a>
 	
 	                <p class="w_operate_title clearFix">
-	                    <a href="javascript:;" target="_blank">商标普通注册</a>
+	                    <a href="javascript:void(0)" target="_blank">商标普通注册</a>
 	                    <span><i>800</i> 元</span>
 	                </p>
 	
@@ -253,7 +255,7 @@
 	                </a>
 	
 	                <p class="w_operate_title clearFix">
-	                    <a href="javascript:;" target="_blank">软件著作权</a>
+	                    <a href="javascript:void(0)" target="_blank">软件著作权</a>
 	                    <span><i>800</i> 元</span>
 	                </p>
 	
@@ -269,12 +271,12 @@
 	                </a>
 	
 	                <p class="w_operate_title clearFix">
-	                    <a href="javascript:;" target="_blank">游戏版号</a>
+	                    <a href="javascript:void(0)" target="_blank">游戏版号</a>
 	                    <span><i>13000</i> 元</span>
 	                </p>
 	
 	                <div class="w_operate_con clearFix">
-	                    <p>一站式搞定游戏行业<br>市场准入资质&nbsp;&nbsp;驰骋游戏世界</p>
+	                    <p>一站式搞定游戏行业市场准入资质<br>驰骋游戏世界</p>
 	                    <a class="w_operate_buy">购买</a>
 	                </div>
 	                <i>资质</i>
@@ -285,7 +287,7 @@
 	                </a>
 	
 	                <p class="w_operate_title clearFix">
-	                    <a href="javascript:;" target="_blank">ICP经营许可证</a>
+	                    <a href="javascript:void(0)" target="_blank">ICP经营许可证</a>
 	                    <span><i>2800</i> 元</span>
 	                </p>
 	
@@ -314,10 +316,10 @@
 				<div class="scroll-wrap" id="scrolls" style="top: -16px;">
 					<p><a>ICP经营许可证与ICP备案证有什么区别？</a></p>
 					<!--clone 文字和最后一条相同--> 
-					<p><a href="http://mp.weixin.qq.com/s?__biz=MzIyMTcyMTYzMw==&mid=100000042&idx=2&sn=16ac0c8f3053b685ca14c682c42f47db&chksm=683924645f4ead720c9b49a7eca6d73ec62584d78815610b4197e01e4f870dca2148fa712f7c#rd" target="_blank">游戏版号送审攻略：审批通过不容忽视的细节？</a></p>
-					<p><a href="http://mp.weixin.qq.com/s?__biz=MzIyMTcyMTYzMw==&mid=100000169&idx=1&sn=e3b8ceca4e3a49af5044984afafe38ca&chksm=683924e75f4eadf1cea7d8868977bc590dfea9d7af39db8f21c4dbfceba66e17feb6b39259ab#rd" target="_blank">直播平台都需要办理哪些资质？</a></p>
-					<p><a href="https://mp.weixin.qq.com/s?__biz=MzIyMTcyMTYzMw==&mid=100000009&idx=1&sn=01c21aaded5cae056e60dc289d28566f&chksm=683924475f4ead51c651ee500cf21eaa515f43bd7d01acf230c6fb2d51e8c32963ba359c55e1#rd" target="_blank">互联网创业必需资质，你都造吗？</a></p>
-					<p><a href="http://mp.weixin.qq.com/s?__biz=MzIyMTcyMTYzMw==&mid=100000144&idx=1&sn=59910289bc2d0899c5b92ace8d964f40&chksm=683924de5f4eadc86a05bd6b1c73ebb5dca8abf20ec761f408aa27151a13e712748332fd20f9#rd" target="_blank">ICP经营许可证与ICP备案证有什么区别？</a></p>
+					<p><a href="http://mp.weixin.qq.com/s?__biz=MzIyMTcyMTYzMw==&mid=100000042&idx=2&sn=16ac0c8f3053b685ca14c682c42f47db&chksm=683924645f4ead720c9b49a7eca6d73ec62584d78815610b4197e01e4f870dca2148fa712f7c" target="_blank">游戏版号送审攻略：审批通过不容忽视的细节？</a></p>
+					<p><a href="http://mp.weixin.qq.com/s?__biz=MzIyMTcyMTYzMw==&mid=100000169&idx=1&sn=e3b8ceca4e3a49af5044984afafe38ca&chksm=683924e75f4eadf1cea7d8868977bc590dfea9d7af39db8f21c4dbfceba66e17feb6b39259ab" target="_blank">直播平台都需要办理哪些资质？</a></p>
+					<p><a href="https://mp.weixin.qq.com/s?__biz=MzIyMTcyMTYzMw==&mid=100000009&idx=1&sn=01c21aaded5cae056e60dc289d28566f&chksm=683924475f4ead51c651ee500cf21eaa515f43bd7d01acf230c6fb2d51e8c32963ba359c55e1" target="_blank">互联网创业必需资质，你都造吗？</a></p>
+					<p><a href="http://mp.weixin.qq.com/s?__biz=MzIyMTcyMTYzMw==&mid=100000144&idx=1&sn=59910289bc2d0899c5b92ace8d964f40&chksm=683924de5f4eadc86a05bd6b1c73ebb5dca8abf20ec761f408aa27151a13e712748332fd20f9" target="_blank">ICP经营许可证与ICP备案证有什么区别？</a></p>
 				</div>
 			</div>
 		</h3>
@@ -331,7 +333,7 @@
 						<a href="http://www.12366.com/product/detail_458_0.html" target="_blank">营业性演出</a>
 						<a href="http://www.12366.com/product/detail_794_0.html" target="_blank">游戏版号</a>
 						<a href="http://www.12366.com/product/P17010262_794_462500.html" target="_blank">游戏运营备案</a>
-						<a href="javascript:;" id="" onclick="NTKF.im_openInPageChat('kf_9328_1468918698960')">条形码</a>
+						<a href="javascript:void(0)" id="zzzc04" onclick="NTKF.im_openInPageChat('kf_9328_1468918698960')">条形码</a>
 					</dd>
 				</dl>
 				<dl>
@@ -342,15 +344,15 @@
 						<a href="http://www.12366.com/product/P17010262_261_462385.html" target="_blank">IDC许可证</a>
 						<a href="http://www.12366.com/product/P17010262_260_462375.html" target="_blank">ISP许可证</a>
 						<a href="http://www.12366.com/product/P17010262_271_462403.html" target="_blank">呼叫中心</a>
-						<a href="javascript:;" id="" onclick="NTKF.im_openInPageChat('kf_9328_1468918698960')">VPN许可证</a>
+						<a href="javascript:void(0)" id="zzzc05" onclick="NTKF.im_openInPageChat('kf_9328_1468918698960')">VPN许可证</a>
 					</dd>
 				</dl>
 				<dl>
 					<dt>资质认证</dt>
 					<dd>
-						<a href="javascript:;" id="" onclick="NTKF.im_openInPageChat('kf_9328_1468918698960')">ISO9001认证</a>
-						<a href="javascript:;" id="" onclick="NTKF.im_openInPageChat('kf_9328_1468918698960')">ISO14001认证</a>
-						<a href="javascript:;" id="" onclick="NTKF.im_openInPageChat('kf_9328_1468918698960')">OHSAS18001认证</a>
+						<a href="javascript:void(0)" id="zzzc06" onclick="NTKF.im_openInPageChat('kf_9328_1468918698960')">ISO9001认证</a>
+						<a href="javascript:void(0)" id="zzzc07" onclick="NTKF.im_openInPageChat('kf_9328_1468918698960')">ISO14001认证</a>
+						<a href="javascript:void(0)" id="zzzc08" onclick="NTKF.im_openInPageChat('kf_9328_1468918698960')">OHSAS18001认证</a>
 					</dd>
 				</dl>
 			</div>
@@ -371,7 +373,7 @@
 							<li onclick="javascript:window.open('http://www.12366.com/product/detail_794_0.html')">
 								<div class="imgWrap"><img src="img/zz_yxbh.jpg"/></div>
 								<h3>游戏版号</h3>
-								<p>一站式搞定游戏行业<br>市场准入资质&nbsp;&nbsp;驰骋游戏世界</p>
+								<p>一站式搞定游戏行业市场准入资质<br>驰骋游戏世界</p>
 								<b><em class="color_blue">13000</em> 元</b>
 							</li>
 							<li onclick="javascript:window.open('http://www.12366.com/product/detail_465_0.html')">
@@ -406,31 +408,31 @@
 								<p>当天提审 不通过全额退款<br>第二类增值电信业务的接入服务业务</p>
 								<b><em class="color_blue">议价</em></b>
 							</li>
-							<li onclick="NTKF.im_openInPageChat('kf_9328_1468918698960')">
+							<li id="zzzc09" onclick="NTKF.im_openInPageChat('kf_9328_1468918698960')">
 								<div class="imgWrap"><img src="img/zz_txm.jpg"/></div>
 								<h3>条形码</h3>
 								<p>产品信息化的DNA<br>带你走向国际市场</p>
 								<b><em class="color_blue">议价</em></b>
 							</li>
-							<li onclick="NTKF.im_openInPageChat('kf_9328_1468918698960')">
+							<li id="zzzc10" onclick="NTKF.im_openInPageChat('kf_9328_1468918698960')">
 								<div class="imgWrap"><img src="img/zz_9001.jpg"/></div>
 								<h3>ISO9001质量管理体系认证</h3>
 								<p>强化品质管理 提高企业效益<br>增强客户信心 扩大市场份额</p>
 								<b><em class="color_blue">9000</em> 元</b>
 							</li>
-							<li onclick="NTKF.im_openInPageChat('kf_9328_1468918698960')">
+							<li id="zzzc11" onclick="NTKF.im_openInPageChat('kf_9328_1468918698960')">
 								<div class="imgWrap"><img src="img/zz_14001.jpg"/></div>
 								<h3>ISO14000环境管理体系认证</h3>
 								<p>提高企业形象 降低环境风险<br>在市场竞争中取得优势 创造商机</p>
 								<b><em class="color_blue">9000</em> 元</b>
 							</li>
-							<li onclick="NTKF.im_openInPageChat('kf_9328_1468918698960')">
+							<li id="zzzc12" onclick="NTKF.im_openInPageChat('kf_9328_1468918698960')">
 								<div class="imgWrap"><img src="img/zz_18001.jpg"/></div>
 								<h3>OHSAS18001职业健康安全管理体系</h3>
 								<p>增强健康安全意识 降低企业危害风险<br>树立企业良好的品质和形象</p>
 								<b><em class="color_blue">9000</em> 元</b>
 							</li>
-							<li onclick="NTKF.im_openInPageChat('kf_9328_1468918698960')">
+							<li id="zzzc13" onclick="NTKF.im_openInPageChat('kf_9328_1468918698960')">
 								<div class="imgWrap"><img src="img/zz_edi.jpg"/></div>
 								<h3>EDI许可证</h3>
 								<p>在线数据处理与交易<br>为企业实现互联网增值保障</p>
@@ -458,7 +460,7 @@
 								<p>当天提审 不通过全额退款<br>第二类增值电信业务的接入服务业务</p>
 								<b><em class="color_blue">议价</em></b>
 							</li>
-							<li onclick="NTKF.im_openInPageChat('kf_9328_1468918698960')">
+							<li  id="zzzc14" onclick="NTKF.im_openInPageChat('kf_9328_1468918698960')">
 								<div class="imgWrap"><img src="img/zz_edi.jpg"/></div>
 								<h3>EDI许可证</h3>
 								<p>在线数据处理与交易<br>为企业实现互联网增值保障</p>
@@ -493,7 +495,7 @@
 							<li onclick="javascript:window.open('http://www.12366.com/product/detail_794_0.html')">
 								<div class="imgWrap"><img src="img/zz_yxbh.jpg"/></div>
 								<h3>游戏版号</h3>
-								<p>一站式搞定游戏行业<br>市场准入资质&nbsp;&nbsp;驰骋游戏世界</p>
+								<p>一站式搞定游戏行业市场准入资质<br>驰骋游戏世界</p>
 								<b><em class="color_blue">13000</em> 元</b>
 							</li>
 							<li onclick="javascript:window.open('http://www.12366.com/product/detail_465_0.html')">
@@ -511,7 +513,7 @@
 								<b><em class="color_blue">2800</em> 元</b>
 							</li>
 							<li onclick="javascript:window.open('http://www.12366.com/product/detail_257_0.html')">
-								<div class="imgWrap"><img src="img/Ip_rz.jpg"/></div>
+								<div class="imgWrap"><img src="img/ip_rz.jpg"/></div>
 								<h3>软件著作权</h3>
 								<p>软件、网站、APP<br />让抄袭、侵权无机可乘</p>
 								<b><em class="color_blue">800</em> 元</b>
@@ -522,7 +524,7 @@
 								<p>备案一步到位<br>游戏上线无忧</p>
 								<b><em class="color_blue">议价</em></b>
 							</li>
-							<li onclick="NTKF.im_openInPageChat('kf_9328_1468918698960')">
+							<li id="zzzc15" onclick="NTKF.im_openInPageChat('kf_9328_1468918698960')">
 								<div class="imgWrap"><img src="img/zz_edi.jpg"/></div>
 								<h3>EDI许可证</h3>
 								<p>在线数据处理与交易<br>为企业实现互联网增值保障</p>
@@ -536,19 +538,19 @@
 					<div class="arrow_r"></div>
 					<div class="tabs">
 						<ul>
-							<li onclick="NTKF.im_openInPageChat('kf_9328_1468918698960')">
+							<li id="zzzc16" onclick="NTKF.im_openInPageChat('kf_9328_1468918698960')">
 								<div class="imgWrap"><img src="img/zz_9001.jpg"/></div>
 								<h3>ISO9001质量管理体系认证</h3>
 								<p>强化品质管理 提高企业效益<br>增强客户信心 扩大市场份额</p>
 								<b><em class="color_blue">9000</em> 元</b>
 							</li>
-							<li onclick="NTKF.im_openInPageChat('kf_9328_1468918698960')">
+							<li id="zzzc17" onclick="NTKF.im_openInPageChat('kf_9328_1468918698960')">
 								<div class="imgWrap"><img src="img/zz_14001.jpg"/></div>
 								<h3>ISO14000环境管理体系认证</h3>
 								<p>提高企业形象 降低环境风险<br>在市场竞争中取得优势 创造商机</p>
 								<b><em class="color_blue">9000</em> 元</b>
 							</li>
-							<li onclick="NTKF.im_openInPageChat('kf_9328_1468918698960')">
+							<li id="zzzc18" onclick="NTKF.im_openInPageChat('kf_9328_1468918698960')">
 								<div class="imgWrap"><img src="img/zz_18001.jpg"/></div>
 								<h3>OHSAS18001职业健康安全管理体系</h3>
 								<p>增强健康安全意识 降低企业危害风险<br>树立企业良好的品质和形象</p>
@@ -560,14 +562,14 @@
 								<p>20天领证 随提随审<br>影视、综艺、广播、栏目</p>
 								<b><em class="color_blue">800</em> 元</b>
 							</li>
-							<li onclick="NTKF.im_openInPageChat('kf_9328_1468918698960')">
+							<li id="zzzc19" onclick="NTKF.im_openInPageChat('kf_9328_1468918698960')">
 								<div class="imgWrap"><img src="img/zz_txm.jpg"/></div>
 								<h3>条形码</h3>
 								<p>产品信息化的DNA<br>带你走向国际市场</p>
 								<b><em class="color_blue">议价</em></b>
 							</li>
-							<li onclick="NTKF.im_openInPageChat('kf_9328_1468918698960')">
-								<div class="imgWrap"><img src="img/zz_rjcs.jpg"/></div>
+							<li id="zzzc20" onclick="NTKF.im_openInPageChat('kf_9328_1468918698960')">
+								<div class="imgWrap"><img src="img/zz_rjdj.jpg"/></div>
 								<h3>软件产品登记检测</h3>
 								<p>产品信息化的DNA<br>带你走向国际市场</p>
 								<b><em class="color_blue">议价</em></b>
@@ -685,7 +687,7 @@
 				<dl>
 					<dt>商标</dt>
 					<dd>
-						<a href="www.12366.com/product/detail_519_0.html" target="_blank">商标注册</a>
+						<a href="http://www.12366.com/product/detail_519_0.html" target="_blank">商标注册</a>
 						<a href="http://www.12366.com/product/detail_683_0.html" target="_blank">商标设计</a>
 						<a href="http://www.12366.com/product/detail_211_0.html" target="_blank">商标转让</a>
 						<a href="http://www.12366.com/product/detail_214_0.html" target="_blank">商标续展</a>
@@ -695,7 +697,7 @@
 						<a href="http://www.12366.com/product/detail_701_0.html" target="_blank">美国商标</a>
 						<a href="http://www.12366.com/product/detail_689_0.html" target="_blank">香港商标</a>
 						<a href="http://www.12366.com/product/detail_691_0.html" target="_blank">日本商标</a>
-						<a href="javascript:;" id="" onclick="NTKF.im_openInPageChat('kf_9328_1468918637558')">欧盟商标</a>
+						<a href="javascript:void(0)" id="zzzc21" onclick="NTKF.im_openInPageChat('kf_9328_1468918637558')">欧盟商标</a>
 					</dd>
 				</dl>
 				<dl>
@@ -704,15 +706,15 @@
 						<a href="http://www.12366.com/product/detail_257_0.html" target="_blank">软件著作权</a>
 						<a href="http://www.12366.com/product/Z1601002_255_352357.html" target="_blank">文字著作权</a>
 						<a href="http://www.12366.com/product/Z1601002_255_352358.html" target="_blank">美术著作权</a>
-						<a href="javascript:;" id="" onclick="NTKF.im_openInPageChat('kf_9328_1468918637558')">美术</a>
+						<a href="javascript:void(0)" id="zzzc22" onclick="NTKF.im_openInPageChat('kf_9328_1468918637558')">其他</a>
 					</dd>
 				</dl>
 				<dl>
 					<dt>专利</dt>
 					<dd>
-						<a href="javascript:;" id="" onclick="NTKF.im_openInPageChat('kf_9328_1468918637558')">发明专利 </a>
-						<a href="javascript:;" id="" onclick="NTKF.im_openInPageChat('kf_9328_1468918637558')">外观设计专利</a>
-						<a href="javascript:;" id="" onclick="NTKF.im_openInPageChat('kf_9328_1468918637558')">实用新型专利</a>
+						<a href="javascript:void(0)" id="zzzc23" onclick="NTKF.im_openInPageChat('kf_9328_1468918637558')">发明专利 </a>
+						<a href="javascript:void(0)" id="zzzc24" onclick="NTKF.im_openInPageChat('kf_9328_1468918637558')">外观设计专利</a>
+						<a href="javascript:void(0)" id="zzzc25" onclick="NTKF.im_openInPageChat('kf_9328_1468918637558')">实用新型专利</a>
 					</dd>
 				</dl>
 			</div>
@@ -730,13 +732,13 @@
 								<p>资深设计师 原创设计<br>提高品牌辨识度</p>
 								<b><em class="color_blue">1300</em> 元</b>
 							</li>
-							<li onclick="javascript:window.open('www.12366.com/product/detail_519_0.html')">
+							<li onclick="javascript:window.open('http://www.12366.com/product/detail_519_0.html')">
 								<div class="imgWrap"><img src="img/ip_sbzc.jpg"/></div>
 								<h3>商标普通注册</h3>
 								<p>保护企业品牌<br>当天提报 极速受理</p>
 								<b><em class="color_blue">800</em> 元</b>
 							</li>
-							<li onclick="NTKF.im_openInPageChat('kf_9328_1468918637558')">
+							<li id="zzzc26" onclick="NTKF.im_openInPageChat('kf_9328_1468918637558')">
 								<div class="imgWrap"><img src="img/ip_gjsq.jpg"/></div>
 								<h3>国际申请</h3>
 								<p>拓展海外市场<br>保护商标在国际市场的权益</p>
@@ -746,7 +748,7 @@
 								<div class="imgWrap"><img src="img/ip_sbbg.jpg"/></div>
 								<h3>商标变更</h3>
 								<p>全力保障品牌的权利 ，让服务更简单</p>
-								<b><em class="color_blue">1000</em></b>
+								<b><em class="color_blue">1000</em> 元</b>
 							</li>
 							<li onclick="javascript:window.open('http://www.12366.com/product/detail_211_0.html')">
 								<div class="imgWrap"><img src="img/ip_sbzr.jpg"/></div>
@@ -828,13 +830,13 @@
 								<p>抢占日本市场先机 防止他人恶意注册<br>保护商标在日本市场的权益</p>
 								<b><em class="color_blue">7800</em> 元</b>
 							</li>
-							<li onclick="NTKF.im_openInPageChat('kf_9328_1468918637558')">
+							<li id="zzzc27" onclick="NTKF.im_openInPageChat('kf_9328_1468918637558')">
 								<div class="imgWrap"><img src="img/ip_gjom.jpg"/></div>
 								<h3>欧盟商标注册</h3>
 								<p>拓展海外市场<br />保护商标权益</p>
 								<b><em class="color_blue">议价</em></b>
 							</li>
-							<li onclick="NTKF.im_openInPageChat('kf_9328_1468918637558')">
+							<li id="zzzc28" onclick="NTKF.im_openInPageChat('kf_9328_1468918637558')">
 								<div class="imgWrap"><img src="img/ip_gjbjst.jpg"/></div>
 								<h3>巴基斯坦商标注册</h3>
 								<p>拓展海外市场<br />保护商标权益</p>
@@ -872,13 +874,13 @@
 								<p>让您的原创作品免受抄袭侵权的困扰</p>
 								<b><em class="color_blue">800</em> 元</b>
 							</li>
-							<li onclick="NTKF.im_openInPageChat('kf_9328_1468918637558')">
+							<li id="zzzc29" onclick="NTKF.im_openInPageChat('kf_9328_1468918637558')">
 								<div class="imgWrap"><img src="img/ip_bqbg.jpg"/></div>
 								<h3>著作权变更</h3>
 								<p>保护企业核心价值<br>维护著作权权利主体合法权益</p>
 								<b><em class="color_blue">议价</em></b>
 							</li>
-							<li onclick="NTKF.im_openInPageChat('kf_9328_1468918637558')">
+							<li id="zzzc30" onclick="NTKF.im_openInPageChat('kf_9328_1468918637558')">
 								<div class="imgWrap"><img src="img/ip_bqzr.jpg"/></div>
 								<h3>著作权转让</h3>
 								<p>通过买卖、互易、赠与或遗赠等方式完成<br>保护著作主体利益合法转让</p>
@@ -898,37 +900,37 @@
 					<div class="arrow_r"></div>
 					<div class="tabs">
 						<ul>
-							<li onclick="NTKF.im_openInPageChat('kf_9328_1468918637558')">
+							<li id="zzzc31" onclick="NTKF.im_openInPageChat('kf_9328_1468918637558')">
 								<div class="imgWrap"><img src="img/ip_wg.jpg"/></div>
 								<h3>外观专利</h3>
 								<p>保护产品独特设计<br>投资少 回报快</p>
 								<b><em class="color_blue">议价</em></b>
 							</li>
-							<li onclick="NTKF.im_openInPageChat('kf_9328_1468918637558')">
+							<li id="zzzc32" onclick="NTKF.im_openInPageChat('kf_9328_1468918637558')">
 								<div class="imgWrap"><img src="img/ip_wgjh.jpg"/></div>
 								<h3>外观专利（减缓）</h3>
 								<p>保护产品独特设计<br>投资少 回报快</p>
 								<b><em class="color_blue">议价</em></b>
 							</li>
-							<li onclick="NTKF.im_openInPageChat('kf_9328_1468918637558')">
+							<li id="zzzc33" onclick="NTKF.im_openInPageChat('kf_9328_1468918637558')">
 								<div class="imgWrap"><img src="img/ip_sy.jpg"/></div>
 								<h3>实用新型专利</h3>
 								<p>保护结构形状创新<br>风险小 周期短</p>
 								<b><em class="color_blue">议价</em></b>
 							</li>
-							<li onclick="NTKF.im_openInPageChat('kf_9328_1468918637558')">
+							<li id="zzzc34" onclick="NTKF.im_openInPageChat('kf_9328_1468918637558')">
 								<div class="imgWrap"><img src="img/ip_syjh.jpg"/></div>
 								<h3>实用新型专利（减缓）</h3>
 								<p>保护结构形状创新<br>风险小 周期短</p>
 								<b><em class="color_blue">议价</em></b>
 							</li>
-							<li onclick="NTKF.im_openInPageChat('kf_9328_1468918637558')">
+							<li id="zzzc35" onclick="NTKF.im_openInPageChat('kf_9328_1468918637558')">
 								<div class="imgWrap"><img src="img/ip_fm.jpg"/></div>
 								<h3>发明专利</h3>
 								<p>保护产品创新<br>含金量高 专利价值最大</p>
 								<b><em class="color_blue">议价</em></b>
 							</li>
-							<li onclick="NTKF.im_openInPageChat('kf_9328_1468918637558')">
+							<li id="zzzc36" onclick="NTKF.im_openInPageChat('kf_9328_1468918637558')">
 								<div class="imgWrap"><img src="img/ip_fmjh.jpg"/></div>
 								<h3>发明专利（减缓）</h3>
 								<p>保护产品创新<br>含金量高 专利价值最大</p>
@@ -1059,9 +1061,9 @@
 </div>
 <!--end-->
 <!--推广运营-->
-<div class="w_operate">
+<div class="w_operate pt50" id="div5" style="background-color: #fff;">
     <div class="w_w1200" style="width: 1220px;">
-        <h3>推广运营</h3>
+        <h3 style="text-align: center;">推广运营</h3>
         <ul class="clearFix">
             <li onclick="javascript:window.open('http://www.12366.com/product/Z1601002_1260_428742.html')">
                 <a>
@@ -1069,7 +1071,7 @@
                 </a>
 
                 <p class="w_operate_title clearFix">
-                    <a href="javascript:;" target="_blank">H5设计制作</a>
+                    <a href="javascript:void(0)" target="_blank">H5设计制作</a>
                     <span>特惠价 <i>399</i> 元</span>
                 </p>
 
@@ -1078,12 +1080,12 @@
                     <a class="w_operate_buy">购买</a>
                 </div>
             </li>
-            <li onclick="NTKF.im_openInPageChat('kf_9328_1468918637558')">
+            <li id="zzzc37" onclick="NTKF.im_openInPageChat('kf_9328_1468918637558')">
                 <a>
                     <img src="img/yy_wysj.jpg" alt="网站设计"/>
                 </a>
                 <p class="w_operate_title clearFix">
-                    <a href="javascript:;" target="_blank">网站设计</a>
+                    <a href="javascript:void(0)" target="_blank">网站设计</a>
                     <span><i>3000</i> 元</span>
                 </p>
 
@@ -1098,7 +1100,7 @@
                 </a>
 
                 <p class="w_operate_title clearFix">
-                    <a href="javascript:;" target="_blank">网络营销推广包</a>
+                    <a href="javascript:void(0)" target="_blank">网络营销推广包</a>
                     <span><i>499</i> 元</span>
                 </p>
 
@@ -1113,7 +1115,7 @@
                 </a>
 
                 <p class="w_operate_title clearFix">
-                    <a href="javascript:;" target="_blank">微信代运营</a>
+                    <a href="javascript:void(0)" target="_blank">微信代运营</a>
                     <span><i>999</i> 元</span>
                 </p>
 
@@ -1126,7 +1128,7 @@
     </div>
 </div>
 <!--服务流程-->
-<div class="w_procedure" id="div5">
+<div class="w_procedure" id="div6" style="margin-top: -60px;">
     <div class="w_w1200">
         <h3>服务流程</h3>
         <ul class="w_step_ul">
@@ -1188,10 +1190,9 @@
     </div>
 </div>
 <!--他们都选择了顺利办服务-->
-<div class="w_choice" id="div6">
+<div class="w_choice" id="div7">
     <div class="w_w1200">
         <h3>他们都选择了顺利办服务</h3>
-
         <p>企业发展的基础，顺利办为企业发展续航</p>
         <ul class="clearFix">
             <li><img src="img/w_choice_1.jpg" alt=""/></li>
@@ -1207,52 +1208,60 @@
         </ul>
     </div>
 </div>
-<div class="w_feature" id="div7">
+<div class="w_feature" id="div8">
     <div class="w_w1200">
         <ul class="clearFix">
             <li>
                 <img src="img/w_feature_1.jpg" alt=""/>
                 <h5>1站式服务</h5>
-
                 <p>资深顾问团一对一服务</p>
             </li>
             <li>
                 <img src="img/w_feature_2.jpg" alt=""/>
                 <h5>2个渠道</h5>
-
                 <p>打通线上线下服务链，<br>线上极速响应，线下缩进最后一公里</p>
             </li>
             <li>
                 <img src="img/w_feature_3.jpg" alt=""/>
                 <h5>3步流程快速办理</h5>
-
                 <p>咨询 - 下单 - 完成</p>
             </li>
             <li>
                 <img src="img/w_feature_4.jpg" alt=""/>
                 <h5>4大核心服务</h5>
-
                 <p>闪电响应，服务可视、<br>品质保障，信息保密</p>
             </li>
         </ul>
     </div>
 </div>
 
-<div class="footer_ad">
+<div class="footer_fixed">
   <p>
     <img class="footer_img" src="img/T-footer.png">
     <b>资质知产资深顾问</b>
-    <a onclick="NTKF.im_openInPageChat('kf_9328_1468918698960')" id="hegs">立即咨询</a>
+    <a id="zzzc38" onclick="NTKF.im_openInPageChat('kf_9328_1468918698960')">立即咨询</a>
     <img src="img/w_banner_3.png">
     <span style="float: right;">免费咨询热线</span>
     <img style="width: 25px;margin: 12px 10px 0 0;" src="img/tels.gif">
   </p>
 </div>
 
-<footer class="mb50"><footer>
-
+<div class="w_footer" >
+	<div class="w_w1200">
+		<p class="w_footer_statement" style="padding-left: 160px;">
+			Copyright © 2016 - 2019 All Rights Reserved. 神州顺利办版权所有   京ICP备10028182号 京公网安备110108400735号
+			<a href="http://si.trustutn.org/info?sn=907161010024683260572&amp;certType=1" target="_blank">
+				<img src="http://www.12366.com/static/front/images/lm_img.png">
+			</a>
+			<a id="___szfw_logo___" href="https://credit.szfw.org/CX20170315033367531072.html" target="_blank">
+		    	<img src="http://www.12366.com//static/front/images/315.jpg">
+		    </a>
+		</p>
+	</div>
+</div>
+<div style="height: 50px;">&nbsp;</div>
+	
 <script src="http://www.12366.com/static/common/js/jquery-1.11.1.min.js "></script>
-<script src="http://www.12366.com/store/static/front/js/common/footer.js"></script>
 <script src="js/jQuery.scrollScreen.js"></script>
 <script src="js/H_jquery.SuperSlide.2.1.js"></script>
 <script src="js/index.js"></script>
@@ -1262,6 +1271,16 @@
     	$("#tab2").Tab();
     	$("#scrolls").Scroll();
 		$("#scrolls2").Scroll();
+		$("#tabs1").Arrow();
+		$("#tabs2").Arrow();
+	    $("#tabs3").Arrow();
+		$("#tabs4").Arrow();
+		$("#tabs5").Arrow();
+	    $("#tabs6").Arrow();
+		$("#tabs7").Arrow();
+		$("#QA1").QA();
+		$("#QA2").QA();
+		$("#top100").Top();
 	}
 </script>
 <script language="javascript" type="text/javascript">
