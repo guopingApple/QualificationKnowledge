@@ -1,15 +1,15 @@
 10
 
 dir
-116701
+117524
 http://192.168.1.225/svn/development/BJYQ/YQ_Slbds/02_src/2017%E4%B8%93%E9%A2%98/pc/QualificationKnowledge/img
 http://192.168.1.225/svn/development
 
 
 
-2017-07-25T01:10:21.088022Z
-116701
-liuyt
+2017-07-27T07:38:48.361666Z
+117060
+guoping
 
 
 
@@ -25,40 +25,6 @@ liuyt
 
 
 0ddb9dd6-f5b0-1f4e-bfba-715aaf554070
-
-w_hot_1.jpg
-file
-
-
-
-
-2017-07-24T05:18:12.566000Z
-e58c3e65b54b7124250606bda696bedd
-2017-07-24T05:08:22.223752Z
-116601
-guoping
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-24759
 
 w_lc_bg.png
 file
@@ -94,6 +60,40 @@ has-props
 
 1554
 
+w_hot_1.jpg
+file
+
+
+
+
+2017-07-24T05:18:12.566000Z
+e58c3e65b54b7124250606bda696bedd
+2017-07-24T05:08:22.223752Z
+116601
+guoping
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24759
+
 w_hot_2.jpg
 file
 
@@ -127,6 +127,74 @@ has-props
 
 
 24408
+
+zz_gbds.jpg
+file
+
+
+
+
+2017-07-26T03:39:25.894800Z
+82b83a160242d8907c90138e8030888c
+2017-07-26T03:29:06.263998Z
+116872
+guoping
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24195
+
+top_01.jpg
+file
+
+
+
+
+2017-07-26T03:39:25.643800Z
+5209ee740057e69f854694b4f7580258
+2017-07-26T03:29:06.263998Z
+116872
+guoping
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+34708
 
 w_hot_3.jpg
 file
@@ -162,16 +230,16 @@ has-props
 
 19402
 
-top_01.jpg
+ip_bqbg.jpg
 file
-116872
 
 
 
-2017-07-26T03:39:25.643800Z
-5209ee740057e69f854694b4f7580258
-2017-07-26T03:29:06.263998Z
-116872
+
+2017-07-26T07:59:54.000000Z
+322406b11a005597a95c2d2db5211996
+2017-07-26T09:58:08.600596Z
+116938
 guoping
 has-props
 
@@ -194,75 +262,7 @@ has-props
 
 
 
-34708
-
-zz_gbds.jpg
-file
-116872
-
-
-
-2017-07-26T03:39:25.894800Z
-82b83a160242d8907c90138e8030888c
-2017-07-26T03:29:06.263998Z
-116872
-guoping
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-24195
-
-top_02.jpg
-file
-116872
-
-
-
-2017-07-26T03:39:25.645800Z
-4fba4ca32d47118209b3e3a54d0a8222
-2017-07-26T03:29:06.263998Z
-116872
-guoping
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-26990
+23949
 
 w_hot_4.jpg
 file
@@ -298,16 +298,16 @@ has-props
 
 34011
 
-ip_bqbg.jpg
+top_02.jpg
 file
-116938
 
 
 
-2017-07-26T07:59:54.000000Z
-322406b11a005597a95c2d2db5211996
-2017-07-26T09:58:08.600596Z
-116938
+
+2017-07-26T03:39:25.645800Z
+4fba4ca32d47118209b3e3a54d0a8222
+2017-07-26T03:29:06.263998Z
+116872
 guoping
 has-props
 
@@ -330,11 +330,11 @@ has-props
 
 
 
-23949
+26990
 
 top_03.jpg
 file
-116872
+
 
 
 
@@ -366,43 +366,9 @@ has-props
 
 32618
 
-top_04.jpg
-file
-116872
-
-
-
-2017-07-26T03:39:25.651800Z
-129185df28203b9182be0518751c0038
-2017-07-26T03:29:06.263998Z
-116872
-guoping
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-24246
-
 ip_syjh.jpg
 file
-116872
+
 
 
 
@@ -434,9 +400,43 @@ has-props
 
 23679
 
+top_04.jpg
+file
+
+
+
+
+2017-07-26T03:39:25.651800Z
+129185df28203b9182be0518751c0038
+2017-07-26T03:29:06.263998Z
+116872
+guoping
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24246
+
 top_05.jpg
 file
-116872
+
 
 
 
@@ -467,40 +467,6 @@ has-props
 
 
 23612
-
-al-dis.jpg
-file
-116717
-
-
-
-2017-07-25T02:11:32.522000Z
-9288b45139e62f78fa352875be7072f6
-2017-07-25T02:04:26.205721Z
-116717
-guoping
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8151
 
 bg1.jpg
 file
@@ -535,6 +501,40 @@ has-props
 
 
 23347
+
+al-dis.jpg
+file
+
+
+
+
+2017-07-25T02:11:32.522000Z
+9288b45139e62f78fa352875be7072f6
+2017-07-25T02:04:26.205721Z
+116717
+guoping
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8151
 
 bg2.jpg
 file
@@ -604,33 +604,9 @@ has-props
 
 1743
 
-prev.jpg
-file
-116709
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-deleted
-
 ip_fmjh.jpg
 file
-116872
+
 
 
 
@@ -664,7 +640,7 @@ has-props
 
 ip_gjmg.jpg
 file
-116938
+
 
 
 
@@ -698,7 +674,7 @@ has-props
 
 ip_sbxz.jpg
 file
-116872
+
 
 
 
@@ -732,7 +708,7 @@ has-props
 
 ar-dis.jpg
 file
-116712
+
 
 
 
@@ -766,7 +742,7 @@ has-props
 
 yy_weixin.jpg
 file
-116872
+
 
 
 
@@ -798,33 +774,9 @@ has-props
 
 35086
 
-zz_rjcs.jpg
-file
-117060
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-deleted
-
 zz_yxba.jpg
 file
-116872
+
 
 
 
@@ -858,7 +810,7 @@ has-props
 
 zz_14001.jpg
 file
-116872
+
 
 
 
@@ -892,7 +844,7 @@ has-props
 
 al.jpg
 file
-116717
+
 
 
 
@@ -926,7 +878,7 @@ has-props
 
 zz_18001.jpg
 file
-116872
+
 
 
 
@@ -960,7 +912,7 @@ has-props
 
 zz_yxbh.jpg
 file
-116872
+
 
 
 
@@ -1026,40 +978,6 @@ has-props
 
 8495
 
-w_feature_1.jpg
-file
-
-
-
-
-2017-07-24T05:18:12.564000Z
-12e24c169da0ac58295c31474162fcc1
-2017-07-24T05:08:22.223752Z
-116601
-guoping
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-13089
-
 w_choice_2.jpg
 file
 
@@ -1094,14 +1012,14 @@ has-props
 
 7287
 
-w_choice_3.jpg
+w_feature_1.jpg
 file
 
 
 
 
-2017-07-24T05:18:12.551000Z
-73121e91260e79ca1cb7c38f246c06b8
+2017-07-24T05:18:12.564000Z
+12e24c169da0ac58295c31474162fcc1
 2017-07-24T05:08:22.223752Z
 116601
 guoping
@@ -1126,7 +1044,41 @@ has-props
 
 
 
-7396
+13089
+
+ar.jpg
+file
+
+
+
+
+2017-07-25T01:20:53.487000Z
+1f803ef3cdd3fa175d762f63d014d395
+2017-07-25T01:34:39.347383Z
+116709
+guoping
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1419
 
 w_feature_2.jpg
 file
@@ -1162,48 +1114,14 @@ has-props
 
 12300
 
-ar.jpg
-file
-116709
-
-
-
-2017-07-25T01:20:53.487000Z
-1f803ef3cdd3fa175d762f63d014d395
-2017-07-25T01:34:39.347383Z
-116709
-guoping
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1419
-
-w_feature_3.jpg
+w_choice_3.jpg
 file
 
 
 
 
-2017-07-24T05:18:12.565000Z
-0bbf960127a1f08f5bdf5d4d73b424c6
+2017-07-24T05:18:12.551000Z
+73121e91260e79ca1cb7c38f246c06b8
 2017-07-24T05:08:22.223752Z
 116601
 guoping
@@ -1228,7 +1146,7 @@ has-props
 
 
 
-14159
+7396
 
 w_choice_4.jpg
 file
@@ -1264,48 +1182,14 @@ has-props
 
 6492
 
-arrow-l-dis.png
+w_feature_3.jpg
 file
 
 
 
 
-2017-07-24T10:00:56.367000Z
-583d2a13bee246a5e3b4e06a32e52687
-2017-07-24T10:09:45.713113Z
-116682
-guoping
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1400
-
-w_feature_4.jpg
-file
-
-
-
-
-2017-07-24T05:18:12.566000Z
-0adc8cdc8dd79ea811290a503101ddee
+2017-07-24T05:18:12.565000Z
+0bbf960127a1f08f5bdf5d4d73b424c6
 2017-07-24T05:08:22.223752Z
 116601
 guoping
@@ -1330,7 +1214,7 @@ has-props
 
 
 
-11625
+14159
 
 w_choice_5.jpg
 file
@@ -1366,16 +1250,16 @@ has-props
 
 8317
 
-ip_sbbg.jpg
+w_feature_4.jpg
 file
-116872
 
 
 
-2017-07-26T03:39:25.437800Z
-a918cad663f9003f5840bd9afe44bb05
-2017-07-26T03:29:06.263998Z
-116872
+
+2017-07-24T05:18:12.566000Z
+0adc8cdc8dd79ea811290a503101ddee
+2017-07-24T05:08:22.223752Z
+116601
 guoping
 has-props
 
@@ -1398,7 +1282,41 @@ has-props
 
 
 
-27639
+11625
+
+arrow-l-dis.png
+file
+
+
+
+
+2017-07-24T10:00:56.367000Z
+583d2a13bee246a5e3b4e06a32e52687
+2017-07-24T10:09:45.713113Z
+116682
+guoping
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1400
 
 w_choice_6.jpg
 file
@@ -1434,16 +1352,16 @@ has-props
 
 7689
 
-ip_bqzr.jpg
+ip_sbbg.jpg
 file
-116938
 
 
 
-2017-07-26T08:00:04.000000Z
-261e676ac657f902f58b30c762d04f02
-2017-07-26T09:58:08.600596Z
-116938
+
+2017-07-26T03:39:25.437800Z
+a918cad663f9003f5840bd9afe44bb05
+2017-07-26T03:29:06.263998Z
+116872
 guoping
 has-props
 
@@ -1466,7 +1384,7 @@ has-props
 
 
 
-29142
+27639
 
 w_choice_7.jpg
 file
@@ -1501,6 +1419,40 @@ has-props
 
 
 7803
+
+ip_bqzr.jpg
+file
+
+
+
+
+2017-07-26T08:00:04.000000Z
+261e676ac657f902f58b30c762d04f02
+2017-07-26T09:58:08.600596Z
+116938
+guoping
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29142
 
 w_choice_8.jpg
 file
@@ -1606,7 +1558,7 @@ has-props
 
 ip_gjbjst.jpg
 file
-116938
+
 
 
 
@@ -1638,77 +1590,9 @@ has-props
 
 23362
 
-zz_yyx.jpg
-file
-116872
-
-
-
-2017-07-26T03:39:26.020800Z
-bc171270b1da242845952c99cf5ab6be
-2017-07-26T03:29:06.263998Z
-116872
-guoping
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-29372
-
-ip_gjrb.jpg
-file
-116938
-
-
-
-2017-07-26T07:56:12.000000Z
-c8438f8598f32d01f9e44ab81f971de6
-2017-07-26T09:58:08.600596Z
-116938
-guoping
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-29023
-
 zz_rjdj.jpg
 file
-117060
+
 
 
 
@@ -1740,9 +1624,77 @@ has-props
 
 28145
 
+ip_gjrb.jpg
+file
+
+
+
+
+2017-07-26T07:56:12.000000Z
+c8438f8598f32d01f9e44ab81f971de6
+2017-07-26T09:58:08.600596Z
+116938
+guoping
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29023
+
+zz_yyx.jpg
+file
+
+
+
+
+2017-07-26T03:39:26.020800Z
+bc171270b1da242845952c99cf5ab6be
+2017-07-26T03:29:06.263998Z
+116872
+guoping
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29372
+
 ip_sbyy.jpg
 file
-116872
+
 
 
 
@@ -1776,7 +1728,7 @@ has-props
 
 ip_sbjj.jpg
 file
-116938
+
 
 
 
@@ -1810,7 +1762,7 @@ has-props
 
 w_banner_3.png
 file
-116922
+
 
 
 
@@ -1841,6 +1793,40 @@ has-props
 
 
 7205
+
+ip_sbfs.jpg
+file
+
+
+
+
+2017-07-26T03:39:25.442800Z
+22c6faa4f14954a636a3f63c1d78384f
+2017-07-26T03:29:06.263998Z
+116872
+guoping
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24038
 
 w_topImg.jpg
 file
@@ -1876,43 +1862,9 @@ has-props
 
 6449
 
-ip_sbfs.jpg
-file
-116872
-
-
-
-2017-07-26T03:39:25.442800Z
-22c6faa4f14954a636a3f63c1d78384f
-2017-07-26T03:29:06.263998Z
-116872
-guoping
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-24038
-
 ip_sbjjdb.jpg
 file
-116938
+
 
 
 
@@ -1943,6 +1895,40 @@ has-props
 
 
 36960
+
+banner2.jpg
+file
+
+
+
+
+2017-07-26T07:08:38.379800Z
+44922c37175ed860d00e4900895c4d85
+2017-07-26T07:39:09.013149Z
+116904
+guoping
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+77081
 
 arrow-l.png
 file
@@ -1978,43 +1964,9 @@ has-props
 
 1494
 
-banner2.jpg
-file
-116904
-
-
-
-2017-07-26T07:08:38.379800Z
-44922c37175ed860d00e4900895c4d85
-2017-07-26T07:39:09.013149Z
-116904
-guoping
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-77081
-
 banner3.jpg
 file
-116938
+
 
 
 
@@ -2048,7 +2000,7 @@ has-props
 
 ip_sbzc.jpg
 file
-116872
+
 
 
 
@@ -2082,7 +2034,7 @@ has-props
 
 ip_fm.jpg
 file
-116872
+
 
 
 
@@ -2116,7 +2068,7 @@ has-props
 
 zz_txm.jpg
 file
-116872
+
 
 
 
@@ -2184,7 +2136,7 @@ has-props
 
 yy_h5.jpg
 file
-116872
+
 
 
 
@@ -2218,7 +2170,7 @@ has-props
 
 zz_icp.jpg
 file
-116872
+
 
 
 
@@ -2252,7 +2204,7 @@ has-props
 
 T-footer.png
 file
-116922
+
 
 
 
@@ -2286,7 +2238,7 @@ has-props
 
 ip_sbzm.jpg
 file
-116938
+
 
 
 
@@ -2320,7 +2272,7 @@ has-props
 
 zz_sp.jpg
 file
-116872
+
 
 
 
@@ -2388,7 +2340,7 @@ has-props
 
 zz_hjzx.jpg
 file
-116872
+
 
 
 
@@ -2422,7 +2374,7 @@ has-props
 
 ip_sbzr.jpg
 file
-116872
+
 
 
 
@@ -2558,7 +2510,7 @@ has-props
 
 ip_bqwz.jpg
 file
-116872
+
 
 
 
@@ -2626,7 +2578,7 @@ has-props
 
 zz_isp.jpg
 file
-116872
+
 
 
 
@@ -2694,7 +2646,7 @@ has-props
 
 ip_sbcs.jpg
 file
-116872
+
 
 
 
@@ -2728,7 +2680,7 @@ has-props
 
 zz_idc.jpg
 file
-116872
+
 
 
 
@@ -2762,7 +2714,7 @@ has-props
 
 ip_rz.jpg
 file
-116872
+
 
 
 
@@ -2796,7 +2748,7 @@ has-props
 
 zz_edi.jpg
 file
-116872
+
 
 
 
@@ -2830,7 +2782,7 @@ has-props
 
 ip_gjom.jpg
 file
-116938
+
 
 
 
@@ -2864,7 +2816,7 @@ has-props
 
 ip_sbsj.jpg
 file
-116872
+
 
 
 
@@ -2898,7 +2850,7 @@ has-props
 
 ip_gjsq.jpg
 file
-116872
+
 
 
 
@@ -2929,30 +2881,6 @@ has-props
 
 
 29379
-
-prev1.jpg
-file
-116709
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-deleted
 
 1.jpg
 file
@@ -3024,7 +2952,7 @@ has-props
 
 w_icon2.png
 file
-116894
+
 
 
 
@@ -3092,7 +3020,7 @@ has-props
 
 ip_wg.jpg
 file
-116872
+
 
 
 
@@ -3160,7 +3088,7 @@ has-props
 
 zz_www.jpg
 file
-116872
+
 
 
 
@@ -3296,7 +3224,7 @@ has-props
 
 zz_9001.jpg
 file
-116872
+
 
 
 
@@ -3330,7 +3258,7 @@ has-props
 
 ip_gjflb.jpg
 file
-116938
+
 
 
 
@@ -3364,7 +3292,7 @@ has-props
 
 yy_wysj.jpg
 file
-116872
+
 
 
 
@@ -3432,7 +3360,7 @@ has-props
 
 ip_sy.jpg
 file
-116872
+
 
 
 
@@ -3466,7 +3394,7 @@ has-props
 
 yy_wlyx.jpg
 file
-116872
+
 
 
 
@@ -3500,7 +3428,7 @@ has-props
 
 ip_wgjh.jpg
 file
-116872
+
 
 
 
@@ -3534,7 +3462,7 @@ has-props
 
 ip_gjxg.jpg
 file
-116938
+
 
 
 
@@ -3602,7 +3530,7 @@ has-props
 
 ip_bqms.jpg
 file
-116872
+
 
 
 
@@ -3636,7 +3564,7 @@ has-props
 
 tels.gif
 file
-116922
+
 
 
 
@@ -3670,7 +3598,7 @@ has-props
 
 ip_bqqt.jpg
 file
-116872
+
 
 
 
@@ -3704,7 +3632,7 @@ has-props
 
 T-footer.jpg
 file
-116922
+
 
 
 
