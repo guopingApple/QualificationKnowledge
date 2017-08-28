@@ -1271,13 +1271,23 @@
     	$("#tab2").Tab();
     	$("#scrolls").Scroll();
 		$("#scrolls2").Scroll();
-		$("#tabs1").Arrow();
-		$("#tabs2").Arrow();
-	    $("#tabs3").Arrow();
-		$("#tabs4").Arrow();
-		$("#tabs5").Arrow();
-	    $("#tabs6").Arrow();
-		$("#tabs7").Arrow();
+		
+		var object = ["#tabs1","#tabs2","#tabs3","#tabs4","#tabs5","#tabs6","#tabs7"];
+		for (var key in object) {
+			if (object.hasOwnProperty(key)) {
+				var element = object[key];
+				// console.log(element);
+				$(element).Arrow();
+			}
+		}
+		// $("#tabs1").Arrow();
+		// $("#tabs2").Arrow();
+	    // $("#tabs3").Arrow();
+		// $("#tabs4").Arrow();
+		// $("#tabs5").Arrow();
+	    // $("#tabs6").Arrow();
+		// $("#tabs7").Arrow();
+
 		$("#QA1").QA();
 		$("#QA2").QA();
 		$("#top100").Top();
